@@ -8,7 +8,7 @@
           <Lesson>
             <DayTitle>Понедельник</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>9:00 Нечетная</Time>
+            <Time>8:00 Нечетная</Time>
             <Discipline>лек АРХ. АППАРАТНЫХ СРЕД</Discipline>
             <Lecturers>
               <Lecturer>
@@ -21,7 +21,7 @@
           <Lesson>
             <DayTitle>Понедельник</DayTitle>
             <WeekCode>2</WeekCode>
-            <Time>9:00 Четная</Time>
+            <Time>8:00 Четная</Time>
             <Discipline>лек АРХ. АППАРАТНЫХ СРЕД</Discipline>
             <Lecturers>
               <Lecturer>
