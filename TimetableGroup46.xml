@@ -1,7 +1,7 @@
 <Timetable>
   <Period Title="ВЕСЕННИЙ СЕМЕСТР 2023/2024 уч. г." StartYear="2024" StartMonth="2" StartDay="5" />
   <Weeks WeekCount="2" />
-  <Group Number="09С31" IdGroup="3031">
+  <Group Number="ПММ-3Б-6ГР" IdGroup="3031">
     <Days>
       <Day Title="Понедельник">
         <GroupLessons>
