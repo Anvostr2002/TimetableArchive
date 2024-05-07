@@ -121,7 +121,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -134,7 +134,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -147,7 +147,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -160,7 +160,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -173,7 +173,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -186,7 +186,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -199,7 +199,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -212,7 +212,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -225,7 +225,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -238,7 +238,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1111</IdLecturer>
-                <ShortName>Преп. направления ВУЦ</ShortName>
+                <ShortName>Преподаватель ВУЦ</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>ВУЦ; </Classroom>
@@ -346,7 +346,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1112</IdLecturer>
-                <ShortName>ПРЕПОДАВАТЕЛЬ ФК</ShortName>
+                <ShortName>Преподаватель ФК</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>Спортзал; </Classroom>
@@ -359,7 +359,7 @@
             <Lecturers>
               <Lecturer>
                 <IdLecturer>1112</IdLecturer>
-                <ShortName>ПРЕПОДАВАТЕЛЬ ФК</ShortName>
+                <ShortName>Преподаватель ФК</ShortName>
               </Lecturer>
             </Lecturers>
             <Classroom>Спортзал; </Classroom>
@@ -379,9 +379,6 @@
           </Lesson>
         </GroupLessons>
       </Day>
-	  
-	  
-	  
 	  <Day Title="Четверг">
         <GroupLessons>
           <Lesson>
@@ -490,113 +487,98 @@
           </Lesson>
         </GroupLessons>
       </Day>
-	  
-	  
       <Day Title="Пятница">
         <GroupLessons>
           <Lesson>
             <DayTitle>Пятница</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>9:00 Нечетная</Time>
-            <Discipline>пр ФИЗИЧЕСКАЯ КУЛЬТУРА/АДАПТ.</Discipline>
+            <Time>13:25 Нечетная</Time>
+            <Discipline>лек МАШ. ОБУЧЕНИЕ</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2010</IdLecturer>
-                <ShortName>Тимофеев А.Д.</ShortName>
+                <IdLecturer>1009</IdLecturer>
+                <ShortName>Костина И.Л.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom />
+            <Classroom>435; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Пятница</DayTitle>
             <WeekCode>2</WeekCode>
-            <Time>9:00 Четная</Time>
-            <Discipline>пр ФИЗИЧЕСКАЯ КУЛЬТУРА/АДАПТ.</Discipline>
+            <Time>13:25 Четная</Time>
+            <Discipline>лек МАШ. ОБУЧЕНИЕ</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2010</IdLecturer>
-                <ShortName>Тимофеев А.Д.</ShortName>
+                <IdLecturer>1009</IdLecturer>
+                <ShortName>Костина И.Л.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom />
+           <Classroom>435; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Пятница</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>10:50 Нечетная</Time>
-            <Discipline>лек ЭЛЕМЕНТЫ ВЫШ. МАТ.</Discipline>
+            <Time>15:10 Нечетная</Time>
+            <Discipline>лек ООАиП</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2168</IdLecturer>
-                <ShortName>Мотохов Д.Е.</ShortName>
+                <IdLecturer>1010</IdLecturer>
+                <ShortName>Авсеева О.В.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>469*; </Classroom>
+            <Classroom>435; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Пятница</DayTitle>
             <WeekCode>2</WeekCode>
-            <Time>10:50 Четная</Time>
-            <Discipline>лек ЭЛЕМЕНТЫ ВЫШ. МАТ.</Discipline>
+            <Time>15:10 Четная</Time>
+            <Discipline>лек ООАиП</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2168</IdLecturer>
-                <ShortName>Мотохов Д.Е.</ShortName>
+                <IdLecturer>1010</IdLecturer>
+                <ShortName>Авсеева О.В.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>469*; </Classroom>
+            <Classroom>435; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Пятница</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>12:40 Нечетная</Time>
-            <Discipline>пр ЭЛЕМЕНТЫ ВЫШ. МАТ.</Discipline>
+            <Time>16:55 Нечетная</Time>
+            <Discipline>пр ФИЗ. КУЛЬТУРА</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2168</IdLecturer>
-                <ShortName>Мотохов Д.Е.</ShortName>
+                <IdLecturer>1112</IdLecturer>
+                <ShortName>Преподаватель ФК</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>469*; </Classroom>
+            <Classroom>Спортзал; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Пятница</DayTitle>
             <WeekCode>2</WeekCode>
-            <Time>12:40 Четная</Time>
-            <Discipline>пр ЭЛЕМЕНТЫ ВЫШ. МАТ.</Discipline>
+            <Time>16:55 Четная</Time>
+            <Discipline>лаб ООАиП</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2168</IdLecturer>
-                <ShortName>Мотохов Д.Е.</ShortName>
+                <IdLecturer>1013</IdLecturer>
+                <ShortName>Вернер Е.С.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>469*; </Classroom>
+            <Classroom>11; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Пятница</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>14:55 Нечетная</Time>
-            <Discipline>лек БЖД</Discipline>
+            <Time>18:40 Нечетная</Time>
+            <Discipline>лек КОМПЬЮТЕРНЫЕ СЕТИ</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2015</IdLecturer>
-                <ShortName>Расчупкина Т.В.</ShortName>
+                <IdLecturer>1002</IdLecturer>
+                <ShortName>Сафронов В.В.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>459*; </Classroom>
-          </Lesson>
-          <Lesson>
-            <DayTitle>Пятница</DayTitle>
-            <WeekCode>2</WeekCode>
-            <Time>14:55 Четная</Time>
-            <Discipline>пр БЖД</Discipline>
-            <Lecturers>
-              <Lecturer>
-                <IdLecturer>2015</IdLecturer>
-                <ShortName>Расчупкина Т.В.</ShortName>
-              </Lecturer>
-            </Lecturers>
-            <Classroom>459*; </Classroom>
+            <Classroom>435; </Classroom>
           </Lesson>
         </GroupLessons>
       </Day>
@@ -605,106 +587,67 @@
           <Lesson>
             <DayTitle>Суббота</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>9:00 Нечетная</Time>
-            <Discipline>лек МОДЕЛ. И АН. ПО</Discipline>
+            <Time>9:45 Нечетная</Time>
+            <Discipline>лек МВвУНС</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2171</IdLecturer>
-                <ShortName>Цветков В.В.</ShortName>
+                <IdLecturer>1014</IdLecturer>
+                <ShortName>Белоусова С.А.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>468*; </Classroom>
+            <Classroom>дист; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Суббота</DayTitle>
             <WeekCode>2</WeekCode>
-            <Time>9:00 Четная</Time>
-            <Discipline>лек МОДЕЛ. И АН. ПО</Discipline>
+            <Time>9:45 Четная</Time>
+            <Discipline>лек МВ в УНС</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2171</IdLecturer>
-                <ShortName>Цветков В.В.</ShortName>
+                <IdLecturer>1014</IdLecturer>
+                <ShortName>Белоусова С.А.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>468*; </Classroom>
+            <Classroom>дист; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Суббота</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>10:50 Нечетная</Time>
-            <Discipline>лек ОСН. АЛГ.И ПРОГРАММИРОВАНИЯ</Discipline>
+            <Time>11:30 Нечетная</Time>
+            <Discipline>лаб МВ в УНС</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2171</IdLecturer>
-                <ShortName>Цветков В.В.</ShortName>
+                <IdLecturer>1014</IdLecturer>
+                <ShortName>Белоусова С.А.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>468*; </Classroom>
-          </Lesson>
-          <Lesson>
-            <DayTitle>Суббота</DayTitle>
-            <WeekCode>2</WeekCode>
-            <Time>10:50 Четная</Time>
-            <Discipline>лек ОСН. АЛГ.И ПРОГРАММИРОВАНИЯ</Discipline>
-            <Lecturers>
-              <Lecturer>
-                <IdLecturer>2171</IdLecturer>
-                <ShortName>Цветков В.В.</ShortName>
-              </Lecturer>
-            </Lecturers>
-            <Classroom>468*; </Classroom>
+            <Classroom>дист; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Суббота</DayTitle>
             <WeekCode>1</WeekCode>
-            <Time>12:40 Нечетная</Time>
-            <Discipline>пр ОСН. АЛГ.И ПРОГРАММИРОВАНИЯ</Discipline>
+            <Time>13:25 Нечетная</Time>
+            <Discipline>лаб МАШ. ОБУЧЕНИЕ</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2171</IdLecturer>
-                <ShortName>Цветков В.В.</ShortName>
+                <IdLecturer>1015</IdLecturer>
+                <ShortName>Шульгина Е.А.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>470*; </Classroom>
+            <Classroom>дист; </Classroom>
           </Lesson>
           <Lesson>
             <DayTitle>Суббота</DayTitle>
             <WeekCode>2</WeekCode>
-            <Time>12:40 Четная</Time>
-            <Discipline>пр ОСН. АЛГ.И ПРОГРАММИРОВАНИЯ</Discipline>
+            <Time>13:25 Четная</Time>
+            <Discipline>лаб МАШ. ОБУЧЕНИЕ</Discipline>
             <Lecturers>
               <Lecturer>
-                <IdLecturer>2171</IdLecturer>
-                <ShortName>Цветков В.В.</ShortName>
+                <IdLecturer>1015</IdLecturer>
+                <ShortName>Шульгина Е.А.</ShortName>
               </Lecturer>
             </Lecturers>
-            <Classroom>507*а; </Classroom>
-          </Lesson>
-          <Lesson>
-            <DayTitle>Суббота</DayTitle>
-            <WeekCode>1</WeekCode>
-            <Time>14:55 Нечетная</Time>
-            <Discipline>пр ОСН. ПРОЕКТ. БД</Discipline>
-            <Lecturers>
-              <Lecturer>
-                <IdLecturer>2204</IdLecturer>
-                <ShortName>Иляхинский А.О.</ShortName>
-              </Lecturer>
-            </Lecturers>
-            <Classroom>470*; </Classroom>
-          </Lesson>
-          <Lesson>
-            <DayTitle>Суббота</DayTitle>
-            <WeekCode>2</WeekCode>
-            <Time>14:55 Четная</Time>
-            <Discipline>пр МОДЕЛ. И АН. ПО</Discipline>
-            <Lecturers>
-              <Lecturer>
-                <IdLecturer>2171</IdLecturer>
-                <ShortName>Цветков В.В.</ShortName>
-              </Lecturer>
-            </Lecturers>
-            <Classroom>468*; </Classroom>
+            <Classroom>дист; </Classroom>
           </Lesson>
         </GroupLessons>
       </Day>
